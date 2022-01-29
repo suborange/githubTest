@@ -5,5 +5,6 @@ test for github
 Information:
 
  # titles
- ## smalelr
+ ## smaller title
  ### headings
+ #### smallest header
